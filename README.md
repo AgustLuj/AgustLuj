@@ -20,3 +20,4 @@ and a few languages and frameworks more like c, php, mysql.
 
 You can find me in :
 * https://www.linkedin.com/in/agustlujan/?locale=en_US
+* Email: Lujan.agustin@hotmail.com
