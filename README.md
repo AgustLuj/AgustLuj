@@ -1,4 +1,20 @@
-- 👋 Hi, I’m @AgustLuj
-- 👀 I’m interested in Robotics and Programing
-- 🌱 I’m currently learning React Native and Node.js
+# Hi! 👋🏼 I’m Agustin.
+###  My dream is to be a robotics engineer and have a startup.
+
+💪🏼I'm studying to be something someday.
+
+### I love programming
+
+i started when i have only 15 years in the school
+
+Right now I know differents languages and frameworks;
+
+* JavaScript
+* Node.js
+* Express.js
+* React Native
+* MongoDB
+
+and a few languages and frameworks more like c, php, mysql.
+
 
