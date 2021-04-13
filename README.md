@@ -3,7 +3,7 @@
 
 💪🏼I'm studying to be something someday.
 
-### I love programming
+### I love programming and technology
 
 i started when i have only 15 years in the school
 
