@@ -18,3 +18,5 @@ Right now I know differents languages and frameworks;
 and a few languages and frameworks more like c, php, mysql.
 
 
+You can search me in :
+* https://www.linkedin.com/in/agustlujan/?locale=en_US
