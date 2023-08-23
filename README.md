@@ -19,4 +19,3 @@ The project that I dedicated the most time as a hobby was LibreDoc, an applicati
   
 You can find me in :
 * https://www.linkedin.com/in/agustlujan/?locale=en_US
-* Email: Lujan.agustin@hotmail.com
