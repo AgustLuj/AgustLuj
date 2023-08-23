@@ -1,8 +1,5 @@
 # Hi! 👋🏼 I’m Agustin.
 ###  My dream is to be a robotics engineer and have a startup.
-
-💪🏼I'm studying to be something someday.
-
 ### I love programming and technology
 
 i started when i have only 15 years in the school
